@@ -1,0 +1,8 @@
+site_name: test-component-53673897
+site_description: sotnhet
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
